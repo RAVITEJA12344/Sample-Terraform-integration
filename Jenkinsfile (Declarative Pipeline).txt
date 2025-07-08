@@ -9,7 +9,7 @@ pipeline {
   stages {
     stage('Clone Repo') {
       steps {
-        git 'https://github.com/yourusername/terraform-jenkins-demo.git'
+        git 'https://github.com/RAVITEJA12344/Sample-Terraform-integration.git'
       }
     }
 
